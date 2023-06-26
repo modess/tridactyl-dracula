@@ -175,7 +175,7 @@
 }
 
 .TridactylStatusIndicator.TridactylModenormal {
-  display: none;
+  display: none !important;
 }
 
 .TridactylStatusIndicator.TridactylModeinsert {
