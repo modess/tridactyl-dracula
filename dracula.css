@@ -179,9 +179,11 @@
 }
 
 .TridactylStatusIndicator.TridactylModeinsert {
-  background-color: var(--green-600) !important;
+  background-color: var(--green) !important;
+  color: #333 !important;
 }
 i
 .TridactylStatusIndicator.TridactylModevisual {
-  background-color: var(--blue-600) !important;
+  background-color: var(--cyan) !important;
+  color: #333 !important;
 }
