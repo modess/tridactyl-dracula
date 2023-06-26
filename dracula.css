@@ -11,7 +11,7 @@
   --purple: #bd93f9;
   --red: #ff5555;
   --yellow: #f1fa8c;
-  --font: monospace; /*"FiraCode Nerd Font Mono";*/
+  --font: "JetBrains Mono Nerd Font";
 
   --tridactyl-fg: var(--fg);
   --tridactyl-bg: var(--bg);
@@ -57,7 +57,7 @@
 
 #completions table {
   font-size: 0.8rem;
-  font-weight: 200;
+  font-weight: bold;
   border-spacing: 0;
   table-layout: fixed;
   padding: 1rem;
