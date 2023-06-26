@@ -167,3 +167,21 @@
   background: var(--pink);
   color: var(--bg);
 }
+
+.TridactylStatusIndicator {
+  width: 100% !important;
+  text-align: center !important;
+  font-size: 18pt !important;
+}
+
+.TridactylStatusIndicator.TridactylModenormal {
+  display: none;
+}
+
+.TridactylStatusIndicator.TridactylModeinsert {
+  background-color: var(--green-600) !important;
+}
+i
+.TridactylStatusIndicator.TridactylModevisual {
+  background-color: var(--blue-600) !important;
+}
